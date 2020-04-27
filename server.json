@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Liu Kang 1/4 Scale Statue - Mortal Kombat - Pop Culture Shock",
+      "price": 2599.0,
+      "image": "https://fantoy.com.br/media/catalog/product/cache/1/small_image/275x260/9df78eab33525d08d6e5fb8d27136e95/e/s/estatua-liu-kang-popculture-shock_1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Chun-Li 1/4 Statue - Street Fighter",
+      "price": 2399.0,
+      "image": "https://fantoy.com.br/media/catalog/product/cache/1/small_image/275x260/9df78eab33525d08d6e5fb8d27136e95/e/s/estatua-chun-li-hollywood-_1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Crash Bandicoot Statue - Crash Bandicoot N. Sane Trilogy - First 4 Figure",
+      "price": 514.0,
+      "image": "https://fantoy.com.br/media/catalog/product/cache/1/small_image/275x260/9df78eab33525d08d6e5fb8d27136e95/c/r/crash-f4f-1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Goku (Manga Dimensions) - Dragon Ball Z - Grandista - Bandai/Banpresto",
+      "price": 489.0,
+      "image": "https://fantoy.com.br/media/catalog/product/cache/1/small_image/275x260/9df78eab33525d08d6e5fb8d27136e95/g/o/gokumanga.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Orochimaru - Naruto Shippuden - DXtra - Tsume",
+      "price": 679.0,
+      "image": "https://fantoy.com.br/media/catalog/product/cache/1/small_image/275x260/9df78eab33525d08d6e5fb8d27136e95/e/s/estatua-orochimaru-dxtra-tsume-art-04_1.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Ares (God Of War) - Saint Seiya - Saint Cloth Myth EX - Bandai",
+      "price": 1099.0,
+      "image": "https://fantoy.com.br/media/catalog/product/cache/1/small_image/275x260/9df78eab33525d08d6e5fb8d27136e95/b/o/boneco-ares-god-of-war-saint-seiya-cloth-myth-ex-bandai.jpg"
+    }
+  ]
+}
