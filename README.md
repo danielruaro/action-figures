@@ -1,4 +1,4 @@
-### Action Figures (REDUX/SAGA)
+# Action Figures (REDUX/SAGA)
 
 ## Available Scripts
 
